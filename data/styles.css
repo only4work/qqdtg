@@ -155,6 +155,8 @@
 }
 .connector {
 }
+.box_1 {
+}
 .box_2 {
 }
 .ellipse {
@@ -168,4 +170,8 @@
   font-style:normal;
   font-size:18px;
   color:#666666;
+}
+.flow_shape {
+}
+.icon {
 }
